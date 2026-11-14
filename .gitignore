@@ -1,0 +1,12 @@
+# Entornos y cachés de Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Entregable comprimido (se sube a Canvas, no al repositorio)
+*.zip
