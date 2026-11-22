@@ -8,5 +8,5 @@ __pycache__/
 Thumbs.db
 desktop.ini
 
-# Entregable comprimido (se sube a Canvas, no al repositorio)
+# Archivos comprimidos
 *.zip
